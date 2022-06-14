@@ -6,6 +6,9 @@ https://www.youtube.com/watch?v=ItyjWh4QRNU
 FileWriter:
 https://www.geeksforgeeks.org/filewriter-class-in-java/
 
+Serialisierung Video:
+https://www.youtube.com/watch?v=VFj-QRZTFy0
+
 GitHub von anderen Schülern:
 
 Paul: https://github.com/paulinfo-ba/dpdl
