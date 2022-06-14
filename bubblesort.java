@@ -1,6 +1,6 @@
-package BubbleSort_Übung;
+package BubbleSort_Ãœbung;
 
-public class Startklasse {
+public class bubblesort {
 
 	public static void main(String[] args) {
 		
