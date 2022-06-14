@@ -1,0 +1,6 @@
+create table Personen (ID int(10) Primary Key, Nachname varchar(255), Vorname varchar(255))
+
+create table Amtszeiten (ID int(10), gewählt int(4), PersonenID int(10), foreign key(PersonenID) references Personen(ID) ---> Erst die Tabelle des Primärschlüssels und dann die Spalte!
+
+PersonenID (Fremdschlüssel) aus der Tabelle "Amtszeiten" soll mit ID (Primärschlüssel) aus Tabelle "Personen" verbunden werden!
+Das ID aus "Amtszeiten" ist etwas neues!
