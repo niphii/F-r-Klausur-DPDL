@@ -11,6 +11,6 @@ https://www.youtube.com/watch?v=VFj-QRZTFy0
 
 GitHub von anderen Schülern:
 
-Paul: https://github.com/paulinfo-ba/dpdl
-Tom: https://github.com/IllusiveCoder/Theorie
+Paul: https://github.com/paulinfo-ba
+Tom: https://github.com/IllusiveCoder
 Thürkow: https://github.com/fthuerkow/ba_5cs_dpdl
